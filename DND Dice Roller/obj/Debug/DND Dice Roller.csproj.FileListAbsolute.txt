@@ -1,0 +1,9 @@
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\bin\Debug\DND Dice Roller.exe.config
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\bin\Debug\DND Dice Roller.exe
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\bin\Debug\DND Dice Roller.pdb
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND Dice Roller.csprojAssemblyReference.cache
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND_Dice_Roller.Form1.resources
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND_Dice_Roller.Properties.Resources.resources
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND Dice Roller.csproj.GenerateResource.cache
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND Dice Roller.exe
+C:\Users\JC\source\repos\DND Dice Roller\DND Dice Roller\obj\Debug\DND Dice Roller.pdb
